@@ -2,7 +2,7 @@
 
 This project gives details about basic semantic HTML elements and CSS element
 
-![Nutrition label](./app_screenshot.png)
+![Nutrition label](app_screenshot.png)
 
 Additional description of the project and its features.
 
