@@ -9,13 +9,13 @@ Additional description of the project and its features.
 ## Built With
 
 - Html element,
-- `div`, `span`
+  - `div`, `span`
 - CSS
-- `margin`, `font-weight`, `justify-content`,
-- `text-align`, `padding` `font-size`, `border-bottom`
+  - `margin`, `font-weight`, `justify-content`,
+  - `text-align`, `padding` `font-size`, `border-bottom`
 - Linters
-- [Prettier](https://prettier.io/)
-- [Stylelint](https://stylelint.io/)
+  - [Prettier](https://prettier.io/)
+  - [Stylelint](https://stylelint.io/)
 
 ## Live Demo
 
