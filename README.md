@@ -1,16 +1,21 @@
-# Project Name
+# FCC NUTRITONAL LABEL
 
-> One paragraph statement about the project.
+This project gives details about basic semantic HTML elements and CSS element
 
-![screenshot](./app_screenshot.png)
+![Nutrition label](./app_screenshot.png)
 
 Additional description of the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- Html element,
+- `div`, `span`
+- CSS
+- `margin`, `font-weight`, `justify-content`,
+- `text-align`, `padding` `font-size`, `border-bottom`
+- Linters
+- [Prettier](https://prettier.io/)
+- [Stylelint](https://stylelint.io/)
 
 ## Live Demo
 
@@ -21,7 +26,7 @@ Additional description of the project and its features.
 - Clone the project
 
 ```bash
-git clone https://github.com/bolah2009/html-css-template.git
+git clone https://github.com/Gbemisola19/08-fcc-nutrition-label.git
 
 ```
 
@@ -77,9 +82,8 @@ yarn axe
 
 ## 👤 Author
 
-- Github: [@author](https://github.com/author)
-- Twitter: [@author](https://twitter.com/author)
-- Linkedin: [@author](https://www.linkedin.com/in/author/)
+- Github: [Gbemisola19](https://github.com/Gbemisola19)
+- Twitter: [OladipoAzeezat](https://twitter.com/OladipoAzeezat)
 
 ## 🤝 Contributing
 
