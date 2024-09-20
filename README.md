@@ -1,4 +1,4 @@
-# FCC NUTRITONAL LABEL
+# FCC Nutritional Label
 
 This project gives details about basic semantic HTML elements and CSS element
 
