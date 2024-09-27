@@ -19,7 +19,7 @@ Additional description of the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Deploy Link](https://vercel.com/gbemisola19s-projects/08-fcc-nutrition-label)
 
 ### Development (Running locally)
 
